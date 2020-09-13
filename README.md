@@ -1,1 +1,1 @@
-https://uuid-slector.vercel.app/
+https://uuid-selector.vercel.app
