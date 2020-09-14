@@ -53,6 +53,9 @@ const InputUuidField = ({ header, stateHandler, fieldtype }) => {
         value={value}
         onChange={onChangeHandler}
         onDrop={onDropFileHandler}
+        placeholder="INPUT TEXT
+        OR
+        DROP .txt FILE"
       >
       </textarea>
       <div className='d-flex justify-content-between'>
